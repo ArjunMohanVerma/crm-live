@@ -26,7 +26,7 @@ SECRET_KEY = 'y+9e#a2^d+3&4=84nl_#e!b4obm+i6q-&wyn5v8vdwst36u@oq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','icecreamnet.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','arjunmohan.pythonanywhere.com']
 
 
 # Application definition
